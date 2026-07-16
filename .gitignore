@@ -1,0 +1,16 @@
+.DS_Store
+
+.vscode/
+
+*.log
+
+node_modules/
+
+.env
+.env.*
+
+*.tmp
+*.temp
+
+
+.netlify/
